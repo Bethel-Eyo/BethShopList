@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197506282411",
+    "firebase_url": "https://betshoplist-4de3b.firebaseio.com",
+    "project_id": "betshoplist-4de3b",
+    "storage_bucket": "betshoplist-4de3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197506282411:android:fe801bb051447907",
+        "android_client_info": {
+          "package_name": "com.example.user.betshoplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197506282411-oo2iqiut7f8b1a0hh0vo21c4rlh1b0lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.betshoplist",
+            "certificate_hash": "c50642416180313344637719adb92173f006da47"
+          }
+        },
+        {
+          "client_id": "197506282411-o7cts5i1ar2f7mq2mo6vsju936t67nmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWTH_hhcr4sZuLxJ3z8-9zZXTe5oXfKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197506282411-o7cts5i1ar2f7mq2mo6vsju936t67nmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
